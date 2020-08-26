@@ -51,3 +51,14 @@ print(odd_even_filter([1, 2, 3, 4, 5, 6, 7, 8, 9]))
 print(odd_even_filter([3, 9, 43, 7]))
 print(odd_even_filter([71, 39, 98, 79, 5, 89, 50, 90, 2, 56]))
 ```
+result:
+D:\pycharm\projects\502\Scripts\python.exe D:/pycharm/502/main.py
+2.8284271247461903
+[3, 4, 9, 8]
+A
+[[[2, 4, 6, 8]], [[1, 3, 5, 7, 9]]]
+[[[]], [[3, 9, 43, 7]]]
+[[[98, 50, 90, 2, 56]], [[71, 39, 79, 5, 89]]]
+
+Process finished with exit code 0
+
